@@ -31,3 +31,6 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/diony-ruaro-836025122/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://www.youtube.com/@rduphold1353"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white"/></a>
+
+### Minhas Estatísticas do GitHub
+[![Estatísticas do](https://github-readme-stats.vercel.app)](
