@@ -16,6 +16,7 @@
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" alt="Postman" /></code>
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/openapis/openapis-icon.svg" title="Swagger - Open API" alt="Swagger - Open API" /></code>
 <img width="25" height="25" src="https://github.com/dionyruaro/dionyruaro/blob/main/svg_logos/amazon_aws-icon.png" title="Amazon AWS" alt="Amazon AWS" /></code>
+<img width="25" height="25" src="https://github.com/dionyruaro/dionyruaro/blob/main/svg_logos/Oracle-Cloud-Emblem.png" title="Oracle Cloud" alt="Oracle Cloud"/></code>
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" title="MySQL" alt="MySQL"/></code>
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" title="Postgres SQL" alt="Postgres SQL"/></code>
 <img width="25" height="25" src="https://github.com/dionyruaro/dionyruaro/blob/main/svg_logos/db2.png" title="IBM DB2" alt="IBM DB2"/></code>
