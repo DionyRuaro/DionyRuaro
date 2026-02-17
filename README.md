@@ -33,4 +33,4 @@
 <a href="https://www.youtube.com/@rduphold1353"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white"/></a>
 
 ### Minhas Estatísticas do GitHub
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dionyruaro&hide=contribs,prs)
+![DionyRuaro's GitHub stats](https://github-readme-stats.vercel.app/api?username=DionyRuaro&show_icons=true&theme=radical)
