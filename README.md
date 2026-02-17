@@ -37,12 +37,10 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/diony-ruaro-836025122/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://www.youtube.com/@rduphold1353"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white"/></a>
-[![GitHub followers](https://img.shields.io/github/followers/DionyRuaro.svg?style=social&label=Follow)](https://github.com/DionyRuaro?tab=followers)
-
-#
 
 ### ⚡ Github Stats</b></summary>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DionyRuaro&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=default"/>	
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DionyRuaro&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=default" />
+<div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dionyruaro&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=default"/>	
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dionyruaro&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=default" />
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=leandrocgsi&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=default" />
 </div>
